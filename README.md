@@ -1,7 +1,2 @@
 # Pick-A-Show
-![alt text](C:\Users\Rohan\Documents\pick a show\1.jpg)
-![alt text](C:\Users\Rohan\Documents\pick a show\2.jpg)
-![alt text](C:\Users\Rohan\Documents\pick a show\3.jpg)
-![alt text](C:\Users\Rohan\Documents\pick a show\4.jpg)
-![alt text](C:\Users\Rohan\Documents\pick a show\5.jpg)
-![alt text](C:\Users\Rohan\Documents\pick a show\6.jpg)
+Pick a Show is a Python-based movie ticket booking system with a user-friendly Tkinter GUI. It allows users to browse movies, select theatres, choose seats, order snacks, and generate booking codes after payment.
